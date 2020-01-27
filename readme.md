@@ -708,3 +708,8 @@ What's the best tool for automatically ignoring long email threads about tech bu
 
 ---
 
+**Q**: How does a software architech propose to his love interest?
+
+**A**: I can't live without you. You are my 'Single Point of Failure'
+
+---
